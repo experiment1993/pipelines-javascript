@@ -26,25 +26,13 @@ As the developer of the work item, you should work through all review checklists
 
 ### Review Checklist
 
-- [x] Identified risks have been assessed correctly, and any follow-up work items have been created.
-- [x] Requirements and Acceptance Criteria have been met.
-- [x] Release Note Summary describes the problem and solution in a way understandable to end users.
+- [ ] Identified risks have been assessed correctly, and any follow-up work items have been created.
+- [ ] Requirements and Acceptance Criteria have been met.
+- [ ] Release Note Summary describes the problem and solution in a way understandable to end users.
 
 #### Code
-- [x] Pull Request is based off the correct Destination Branch
-- [x] Breaking changes have been assessed correctly.
-- [x] Unit tests have been added/updated with success and failure cases.
-- [x] Code Documentation has been added/updated.
-- [x] Meets coding standards.
-
-### Merge Review Checklist
-- [x] Review Checklist above was completed.
-- [x] Verify all blocking items or blocking dependencies are linked and resolved.
-- [x] Pull Request title matches the subject line of the commit message.
-- [x] Commit Message type, formatting, and phrasing meet all applicable conventions from the following documents:
-  - [QHR changelog conventions](https://confluence.qhrtech.com/display/PD/Git+and+GitHub#GitandGitHub-CommitMessageStandard)
-  - [Conventional Commits specification](https://www.conventionalcommits.org/en/v1.0.0/#specification)
-  - [The Seven Rules for commit messages](https://chris.beams.io/posts/git-commit/#seven-rules)
-- [x] "Fix Version/s" in the Jira ticket has been updated to `prescribeit-formulary-next`.
-
-
+- [ ] Pull Request is based off the correct Destination Branch
+- [ ] Breaking changes have been assessed correctly.
+- [ ] Unit tests have been added/updated with success and failure cases.
+- [ ] Code Documentation has been added/updated.
+- [ ] Meets coding standards.
